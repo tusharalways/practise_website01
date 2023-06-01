@@ -1,0 +1,265 @@
+h1,h2,h3,h4,h5 {
+   font-family: 'Poppins', sans-serif;
+}
+.portfolio img,.banner img,.services img,.team img{
+    width: 100%;
+
+}
+
+p{
+    font-family: 'Open Sans', sans-serif;
+}
+section {
+    padding: 100px 0;
+}
+/* Banner Section */
+.banner {
+    background: linear-gradient(rgb(36, 42, 86,0.8),rgb(36, 42, 86,0.8)), url(img/banner.jpg);
+    height: 100vh;
+    padding-top: 30px;
+}
+.logo{
+    width: 150px;
+    margin-bottom: 245px;
+}
+.logo img{
+    width: 100%;
+}
+.menu {
+    text-align: right;
+}
+.menu a {
+    color: #fff;
+    text-decoration: none;
+    margin-right: 30px;
+}
+.button {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 35px;
+  padding-right: 35px;
+  border: none;
+  border-radius: 5px;
+  background: #6878d6;
+  color: #fff;
+  transition: .4s;
+  -webkit-transition: .4s;
+  -moz-transition: .4s;
+  -ms-transition: .4s;
+  -o-transition: .4s;
+}
+.button:hover{
+    background: #fff;
+    color: #000;
+}
+
+.banner-text{}
+.banner-text h2{
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: 600;
+    color: #fff;
+    margin-bottom: 20px;
+}
+.banner-text h1{
+    font-size: 48px;
+    line-height: 58px;
+    font-weight: 600;
+    color: #fff;
+    margin-bottom: 20px;
+}
+.banner-text p{
+    font-size: 16px;
+    line-height: 26px;
+    font-weight: 400;
+    color: #fff;
+    margin-bottom: 70px;
+}
+
+/* Service Section */
+
+.title {
+    text-align: center;
+}
+.title h2 {
+    font-size: 42px;
+    font-weight: 700;
+    line-height: 55px;
+    color: #242a56;
+}
+.title p{
+    font-size: 16px;
+    line-height: 26px;
+    font-weight: 400;
+    color: #393a56 ;
+    margin-top: 25px;
+    margin-bottom:60px;
+}
+.services {
+    background: #eff2ff;
+    padding:100px 0;
+}
+.service {
+    background:#fff;
+    padding: 30px;
+}
+.service i{
+    font-size: 42px;
+    line-height: 42px;
+    color: #6878d6;
+    font-weight: 400;
+}
+.service h3 {
+    font-size: 20px;
+    line-height: 24px;
+    font-weight: 700;
+    color: #242a56;
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+.service p{
+    font-size: 16px;
+    line-height: 26px;
+    font-weight: 400;
+    color: #393a56;
+}
+.cusgap{
+    margin-top: 25px ;
+}
+
+.space {
+    padding-top: 80px;
+}
+.btn-p:hover {
+    background: #3d52d1;
+    color: #fff;
+}
+.portfolio img {
+    width: 100%;
+}
+.cus-bor{
+    border-right: 0.1px solid #eee;
+}
+.market {
+    border-top: 0.1px solid #eee;
+    border-bottom: 0.1px solid #eee;
+}
+
+/* Review Section */
+.review {
+  background:#eff2ff;
+}
+.review h2{
+    font-size: 28px;
+    line-height: 39px;
+    color: #242a56;
+    font-weight: 700;
+    padding-bottom: 10px;
+}
+.review p{
+    color: #393a56;
+     font-size: 18px;
+     line-height: 26px;
+     font-weight: 400;
+     padding-bottom: 10px;
+}
+.review img{
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+     margin-bottom: 20px;
+}
+.review h3{
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 700;
+    color: #393a56;
+}
+.review span {
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 26px;
+    color:#393a56;
+    margin-top: 0;
+}
+.portfolio {
+    padding-bottom: 0;
+}
+
+.team {
+    background: #f9faff;
+}
+.team img{}
+.team h3{
+   font-size: 22px;
+   padding-top: 20px;
+   color: #242a56;
+}
+.team p{
+    
+}
+.CTA {
+	background: #fff;
+	box-shadow: 7px 6px 29px #dee3f3;
+	border-radius: 5px;
+	padding: 37px;
+    margin-top: 78px;
+}
+.CTA h1{
+    font-size: 28px;
+    color: #6878d6;
+}
+.CTA p{}
+.CTA button{
+    
+    margin-left: 70px;
+    margin-top: 25px;
+}
+
+.footer {
+    background: #242a56;
+    color: #fff;
+}
+.footer p{
+    padding-top: 15px;
+    padding-bottom: 5px;
+}
+.footer i{
+    margin-right: 11px;
+    font-size: 23px;
+}
+.footer ul {
+    list-style: none;
+    margin-left: -33px;
+    margin-top: 20px;
+}
+
+.fb {
+   background: #242a56;
+    color: #fff;
+    border-top: 1px solid #eee;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
